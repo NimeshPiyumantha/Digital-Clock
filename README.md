@@ -1,5 +1,5 @@
 # Digital-Clock
-This is Learning Pythone.
+This is Learning Python.
 
 ### - Digital-Clock
 * Pythone
