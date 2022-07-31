@@ -5,7 +5,7 @@ This is Learning Pythone.
 * Pythone
 
 ##
-![alt text]()
+![alt text](https://github.com/NimeshPiyumantha/Digital-Clock/blob/master/assests/image.png)
 ##
 
 ###  
